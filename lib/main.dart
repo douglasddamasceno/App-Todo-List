@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/app/app_module.dart';
+import 'package:todo_list/app/app_todo_list.dart';
 
 void main() {
-  runApp(AppModule());
+  runApp(AppTodoList());
 }
